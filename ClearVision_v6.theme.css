@@ -1,5 +1,5 @@
 /**
- * @name swag
+ * @name swag2
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -14,9 +14,9 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: #1A75DF;
+  --main-color: #0A29ED;
   --hover-color: #451A91;
-  --success-color: #11E585;
+  --success-color: #03F386;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/sOF8Ld0.jpg');
