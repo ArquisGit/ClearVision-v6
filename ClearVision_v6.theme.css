@@ -1,5 +1,5 @@
 /**
- * @name amongus
+ * @name amongus2
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -34,7 +34,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.beatlesbible.com%2Fsongs%2Fi-am-the-walrus%2F&psig=AOvVaw3wqBuaz1GvXxJ9GhZIjdpV&ust=1679622191343000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIiw8r728P0CFQAAAAAdAAAAABAE');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -47,7 +47,7 @@
   --user-popout-blur: 3px;
   --user-modal-image: url('https://i.imgur.com/oEA2GCY.png');
   --user-modal-position: center;
-  --user-modal-size: cover;
+  --user-modal-size: auto;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 136%;
@@ -55,7 +55,7 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
